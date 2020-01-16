@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/RSA/BigInteger.cpp
+BigInteger.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/RSA/BigInteger.h
+iostream
+-
+string
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/RSA/BigInteger.h
+ostream
+-
+vector
+-
+string.h
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/RSA/RSAdecrypt.cpp
+BigInteger.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/RSA/BigInteger.h
+iostream
+-
+fstream
+-
+string
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/RSA/RSAencrypt.cpp
+BigInteger.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/RSA/BigInteger.h
+iostream
+-
+fstream
+-
+string
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj1/BigInteger.cpp
+BigInteger.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj1/BigInteger.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj1/BigInteger.h
+ostream
+-
+vector
+-
+string.h
+-
+

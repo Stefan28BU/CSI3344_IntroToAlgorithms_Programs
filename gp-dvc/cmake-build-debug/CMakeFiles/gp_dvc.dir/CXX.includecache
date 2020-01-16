@@ -1,0 +1,120 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Alpha.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Brute_Force.h
+Matrix.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Matrix.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Button.h
+SDL_Plotter.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/SDL_Plotter.h
+Alpha.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Alpha.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Divide_and_Conquer.h
+Matrix.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Matrix.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Draw.h
+SDL_Plotter.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/SDL_Plotter.h
+Button.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Button.h
+Alpha.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Alpha.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/GraphFunc.h
+vector
+-
+semaphore.h
+-
+sys/types.h
+-
+SDL_Plotter.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/SDL_Plotter.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Matrix.h
+vector
+-
+iostream
+-
+time.h
+-
+math.h
+-
+iomanip
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/SDL_Plotter.h
+SDL2/SDL.h
+-
+SDL2_mixer/SDL_mixer.h
+-
+SDL2/SDL_thread.h
+-
+string.h
+-
+iostream
+-
+string
+-
+string.h
+-
+map
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Strassen.h
+iostream
+-
+cmath
+-
+Matrix.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Matrix.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/ThreadDC.h
+pthread.h
+-
+Matrix.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Matrix.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/main.cpp
+iostream
+-
+cmath
+-
+vector
+-
+Button.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Button.h
+Draw.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Draw.h
+Matrix.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Matrix.h
+Divide_and_Conquer.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Divide_and_Conquer.h
+Strassen.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Strassen.h
+Brute_Force.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/Brute_Force.h
+GraphFunc.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/GraphFunc.h
+ratio
+-
+pthread.h
+-
+ThreadDC.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/gp-dvc/ThreadDC.h
+semaphore.h
+-
+sys/types.h
+-
+chrono
+-
+

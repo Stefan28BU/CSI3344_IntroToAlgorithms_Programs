@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/np1/BigInteger.cpp
+BigInteger.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/np1/BigInteger.h
+iostream
+-
+string
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/np1/BigInteger.h
+iostream
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/np1/iostream
+ostream
+-
+vector
+-
+string.h
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/np1/main.cpp
+iostream
+-
+BigInteger.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/np1/BigInteger.h
+

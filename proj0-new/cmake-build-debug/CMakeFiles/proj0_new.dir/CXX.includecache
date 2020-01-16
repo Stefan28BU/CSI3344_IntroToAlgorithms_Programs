@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/Graph.h
+list
+-
+map
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/MainGraphTester.cpp
+iostream
+-
+fstream
+-
+string
+-
+Graph.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/Graph.h
+TestGraph.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/TestGraph.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/Successors.cpp
+Graph.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/Graph.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/Successors.h
+Graph.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/Graph.h
+Successors.cpp
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/Successors.cpp
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/TestGraph.h
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+sstream
+-
+Graph.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/Graph.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/TestSuccessor.cpp
+list
+-
+TestGraph.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/TestGraph.h
+Successors.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 3344/proj0-new/Successors.h
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/proj0.dir/main.cpp.o CMakeFiles/proj0.dir/MainGraphTester.cpp.o CMakeFiles/proj0.dir/TestSuccessor.cpp.o  -o proj0 
